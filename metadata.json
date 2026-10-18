@@ -1,0 +1,6 @@
+{
+  "name": "Taskflow - 스마트 할 일 관리 (Todo)",
+  "description": "우선순위, 프로젝트, 마감일, 뽀모도로 타이머와 칸반 보드를 지원하는 올인원 할 일 관리 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
